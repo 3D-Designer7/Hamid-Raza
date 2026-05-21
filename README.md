@@ -88,7 +88,7 @@ Focused on blending creativity, interaction, and storytelling to build immersive
 ## 📫 Connect With Me
 
 - Email: hamidra7a@gmail.com
-- LinkedIn: www.linkedin.com/in/hamid-raza-ui-ux-designer
+- LinkedIn: www.linkedin.com/in/hamid-raza-3d/
 - GitHub: https://github.com/3D-Designer7/Hamid-Raza
 
 ---

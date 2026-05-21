@@ -74,7 +74,9 @@ Focused on blending creativity, interaction, and storytelling to build immersive
 ---
 
 ## 🌐 Portfolio
-
+- Portfolio  
+  https://hamid-raza-portfolio.vercel.app/
+  
 - UI/UX Portfolio  
   https://codecanvas.framer.website/
 
@@ -87,7 +89,7 @@ Focused on blending creativity, interaction, and storytelling to build immersive
 
 - Email: hamidra7a@gmail.com
 - LinkedIn: www.linkedin.com/in/hamid-raza-ui-ux-designer
-- GitHub: https://github.com/yourusername
+- GitHub: https://github.com/3D-Designer7/Hamid-Raza
 
 ---
 
